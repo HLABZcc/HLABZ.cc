@@ -9,8 +9,8 @@ const Hero = () => {
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <center><p className={`${styles.paragraph}`}>
             <span className="text-white">20%</span> Discount on{" "}
-            <span className="text-white">SEO Consulting. 💫</span>
-            <a href="https://www.fiverr.com/hlabzconsult" alt="hlabz">Click Here !</a>
+            <span className="text-white">SEO Consulting. ➡️</span>
+            <a href="https://www.fiverr.com/hlabzconsult" alt="hlabz"> Click Here !</a>
             <br />
           </p></center>
         </div>
