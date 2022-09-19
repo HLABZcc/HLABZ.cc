@@ -50,7 +50,7 @@ export const feedback = [
   }, {
     id: "feedback-2",
     content:
-      "I am very satisfied with the backlinks delivered. The team took their time and did a good research. Thank you very much!",
+      "I am very satisfied with the backlinks delivered. The team took their time and did a good research. Good for starting netlinking on a new site as well as establishing an advanced backlinking strategy. Thank you very much!",
     name: "www.gocaution.ch",
     title: "goCaution® Rental Deposit",
     img: people02,
@@ -58,7 +58,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Perfect good contact! The results were very fast. Site was old but not optimized for SEO. We implemented some Netlinking Campaigns, we saw exponential results from SEO visitors. Good for starting netlinking on a new site as well as establishing an advanced backlinking strategy.",
+      "Perfect good contact! The results were very fast. Site was old but not optimized for SEO. We implemented some Netlinking Campaigns, we saw exponential results from SEO visitors.",
     name: "www.lestricolores.fr",
     title: "Domiciliation in Paris",
     img: people03,
