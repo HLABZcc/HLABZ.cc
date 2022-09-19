@@ -58,7 +58,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Perfect good contact! The results were very fast. Site was old but not optimized for SEO. We implemented some Netlinking Campaigns, we saw exponential results from SEO visitors.",
+      "Perfect good contact! The results were very fast. Site was old but not optimized for SEO. We implemented some Netlinking Campaigns, we saw exponential results from SEO visitors. Good for starting netlinking on a new site as well as establishing an advanced backlinking strategy.",
     name: "www.lestricolores.fr",
     title: "Domiciliation in Paris",
     img: people03,
