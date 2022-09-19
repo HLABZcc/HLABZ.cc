@@ -85,7 +85,7 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "🏢 About Us",
     links: [
       {
         name: "Hire Us",
