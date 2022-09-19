@@ -98,20 +98,10 @@ export const footerLinks = [
         url: "https://github.com/HLABZcc",
       },
       {
-        name: "Keyword Research",
+        name: "Amazon Keyword Research",
         link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
         url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
       },
-      {
-        name: "ClickFunnels 14 Days Free Trial",
-        link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
-        url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
       {
         name: "GitHub",
         link: "https://github.com/HLABZcc",
@@ -125,27 +115,37 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "🔜 Coming Soon",
     links: [
-      {
-        name: "Flash-Ventes.net®",
-        link: "https://flash-ventes.net/",
-        url: "https://flash-ventes.net/",
-      },
       {
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount.co/",
       },
       {
+        name: "🔜 DotOG.xyz®",
+        link: "https://dotog.xyz/",
+        url: "https://dotog.xyz/",
+      },
+      {
         name: "🔜 FlashDeals.com®",
         link: "https://flashdeals.com/",
         url: "https://flashdeals.com/",
       },
+    ],
+  },
+  {
+    title: "🤝 Sponsors",
+    links: [
       {
-        name: "🔜 DotOG.xyz®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
+        name: "ClickFunnels 30 Days Free Trial",
+        link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+        url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+      },
+      {
+        name: "Flash-Ventes.net®",
+        link: "https://flash-ventes.net/",
+        url: "https://flash-ventes.net/",
       },
       {
         name: "FindAWord.xyz®",
