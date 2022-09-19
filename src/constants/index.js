@@ -128,17 +128,17 @@ export const footerLinks = [
         url: "https://flash-ventes.net/",
       },
       {
-        name: "FlashDiscount.co®",
+        name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount.co/",
       },
       {
-        name: "FlashDeals.com®",
+        name: "🔜 FlashDeals.com®",
         link: "https://flashdeals.com/",
         url: "https://flashdeals.com/",
       },
       {
-        name: "DotOG.xyz®",
+        name: "🔜 DotOG.xyz®",
         link: "https://dotog.xyz/",
         url: "https://dotog.xyz/",
       },
