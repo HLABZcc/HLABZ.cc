@@ -149,8 +149,8 @@ export const footerLinks = [
       },
       {
         name: "Bruleur2Graisse.xyz®",
-        link: "https://bruleur2graisse.xyz/",
-        url: "https://bruleur2graisse.xyz/",
+        link: "https://www.bruleur2graisse.xyz/",
+        url: "https://www.bruleur2graisse.xyz/",
       },
     ],
   },
