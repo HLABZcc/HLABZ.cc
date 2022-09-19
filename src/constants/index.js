@@ -102,6 +102,11 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
         url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
       },
+      {
+        name: "ClickFunnels 14 Days Free Trial",
+        link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+        url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+      },
     ],
   },
   {
