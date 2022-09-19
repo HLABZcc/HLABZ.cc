@@ -138,7 +138,7 @@ export const footerLinks = [
     title: "🤝 Sponsors",
     links: [
       {
-        name: "ClickFunnels 30 Days Free Trial",
+        name: "ClickFunnels™ 30 Days Free Trial",
         link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
         url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
       },
