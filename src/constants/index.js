@@ -43,9 +43,9 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Very good work fast, listening and gives you tips. I recommend HLABZ really at the top work super well done with proof is followed after for nickel links. All I desire ! :)",
-    name: "Kuriously",
-    title: "Cyber Security Expert",
+      "Great communication and well detailed report. HLABZ is highly recommended. Thanks HLABZ, surely coming back to you with more orders.",
+    name: "www.adidas.fr",
+    title: "adidas® Official Website",
     img: people01,
   }, {
     id: "feedback-2",
