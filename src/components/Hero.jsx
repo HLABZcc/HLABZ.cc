@@ -23,7 +23,7 @@ const Hero = () => {
         </div></center>
 
         <center><h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          <span className="text-gradient">#HLABZ⚡</span>{" "}
+          <span className="text-gradient">#HLABZ®⚡</span>{" "}
           <br />Website !
         </h1>
           <br />
@@ -34,7 +34,7 @@ const Hero = () => {
             🏢 WO WE ARE? <br className="sm:block hidden" />
           </h2>
             <p className={styles.paragraph}>
-              <strong>HLABZ</strong> is a multifaceted technology company with a focus on staying ahead of the curve. 🌊
+              <strong>HLABZ®</strong> is a multifaceted technology company with a focus on staying ahead of the curve. 🌊
             </p></center>
           <br />
         </div>
