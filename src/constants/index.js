@@ -103,6 +103,11 @@ export const footerLinks = [
         url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
       },
       {
+        name: "High quality SEO backlinks",
+        link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
+        url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
+      },
+      {
         name: "GitHub",
         link: "https://github.com/HLABZcc",
         url: "https://github.com/HLABZcc",
@@ -131,6 +136,11 @@ export const footerLinks = [
         name: "🔜 FlashDeals.com®",
         link: "https://flashdeals.com/",
         url: "https://flashdeals.com/",
+      },
+      {
+        name: "🔜 Premium SEO Audit",
+        link: "https://github.com/HLABZ-CC/SEO-Audit",
+        url: "https://github.com/HLABZ-CC/SEO-Audit",
       },
     ],
   },
