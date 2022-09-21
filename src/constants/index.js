@@ -107,6 +107,9 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
+    {
+    title: "🎉 Community",
+    links: [
       {
         name: "GitHub",
         link: "https://github.com/HLABZcc",
@@ -128,11 +131,6 @@ export const footerLinks = [
         url: "https://flashdiscount.co/",
       },
       {
-        name: "🔜 DotOG.xyz®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
-      },
-      {
         name: "🔜 FlashDeals.com®",
         link: "https://flashdeals.com/",
         url: "https://flashdeals.com/",
@@ -151,6 +149,11 @@ export const footerLinks = [
         name: "ClickFunnels™ 30 Days Free Trial",
         link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
         url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+      },
+      {
+        name: "DotOG.xyz®",
+        link: "https://dotog.xyz/",
+        url: "https://dotog.xyz/",
       },
       {
         name: "Flash-Ventes.net®",
