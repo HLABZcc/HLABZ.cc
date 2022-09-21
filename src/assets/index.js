@@ -1,5 +1,5 @@
 import fvnet from "./fvnet.png";
-import fdcom from "./fdcom.png";
+import gtco from "./gtco.png";
 import fdco from "./fdco.png";
 import bill from "./bill.png";
 import card from "./card.png";
