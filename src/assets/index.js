@@ -1,8 +1,6 @@
 import fvnet from "./fvnet.png";
 import gtco from "./gtco.png";
 import fdco from "./fdco.png";
-import bill from "./bill.png";
-import card from "./card.png";
 import dotog from "./dotog.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
@@ -27,8 +25,6 @@ export {
   fvnet,
   gtco,
   fdco,
-  bill,
-  card,
   dotog,
   logo,
   quotes,
