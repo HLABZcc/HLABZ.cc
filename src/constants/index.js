@@ -98,16 +98,6 @@ export const footerLinks = [
         url: "https://github.com/HLABZcc",
       },
       {
-        name: "Amazon Keyword Research",
-        link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
-        url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
-      },
-      {
-        name: "High quality SEO backlinks",
-        link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
-        url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
-      },
-      {
         name: "GitHub",
         link: "https://github.com/HLABZcc",
         url: "https://github.com/HLABZcc",
@@ -116,6 +106,16 @@ export const footerLinks = [
         name: "Fiverr",
         link: "https://www.fiverr.com/hlabzconsult",
         url: "https://www.fiverr.com/hlabzconsult",
+      },
+      {
+        name: "Amazon Keyword Research",
+        link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
+        url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
+      },
+      {
+        name: "High quality SEO backlinks",
+        link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
+        url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
     ],
   },
@@ -126,11 +126,6 @@ export const footerLinks = [
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount.co/",
-      },
-      {
-        name: "🔜 DotOG.xyz®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
       },
       {
         name: "🔜 FlashDeals.com®",
@@ -151,6 +146,11 @@ export const footerLinks = [
         name: "ClickFunnels™ 30 Days Free Trial",
         link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
         url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
+      },
+      {
+        name: "DotOG.xyz®",
+        link: "https://dotog.xyz/",
+        url: "https://dotog.xyz/",
       },
       {
         name: "Flash-Ventes.net®",
