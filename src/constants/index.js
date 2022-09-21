@@ -40,20 +40,21 @@ export const features = [
 ];
 
 export const feedback = [
-  {
+ {
     id: "feedback-1",
-    content:
-      "Great communication and well detailed report. HLABZ is highly recommended. Thanks HLABZ, surely coming back to you with more orders.",
-    name: "www.adidas.fr",
-    title: "adidas® Official Website",
-    img: people01,
-  }, {
-    id: "feedback-2",
     content:
       "I am very satisfied with the backlinks delivered. The team took their time and did a good research. Good for starting netlinking on a new site as well as establishing an advanced backlinking strategy. Thank you very much!",
     name: "www.gocaution.ch",
     title: "goCaution® Rental Deposit",
     img: people02,
+  },
+    {
+    id: "feedback-2",
+    content:
+      "Great communication and well detailed report. HLABZ is highly recommended. Thanks HLABZ, surely coming back to you with more orders.",
+    name: "www.adidas.fr",
+    title: "adidas® Official Website",
+    img: people01,
   },
   {
     id: "feedback-3",
