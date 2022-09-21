@@ -97,6 +97,16 @@ export const footerLinks = [
         link: "https://github.com/HLABZcc",
         url: "https://github.com/HLABZcc",
       },
+            {
+        name: "GitHub",
+        link: "https://github.com/HLABZcc",
+        url: "https://github.com/HLABZcc",
+      },
+      {
+        name: "Fiverr",
+        link: "https://www.fiverr.com/hlabzconsult",
+        url: "https://www.fiverr.com/hlabzconsult",
+      },
       {
         name: "Amazon Keyword Research",
         link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
@@ -107,21 +117,6 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
-        {
-    title: "🎉 Community",
-    links: [
-      {
-        name: "GitHub",
-        link: "https://github.com/HLABZcc",
-        url: "https://github.com/HLABZcc",
-      },
-      {
-        name: "Fiverr",
-        link: "https://www.fiverr.com/hlabzconsult",
-        url: "https://www.fiverr.com/hlabzconsult",
-      },
-    ],
-  },
   {
     title: "🔜 Coming Soon",
     links: [
