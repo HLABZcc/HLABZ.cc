@@ -118,9 +118,9 @@ export const footerLinks = [
         url: "https://flashdiscount.co/",
       },
       {
-        name: "🔜 FlashDeals.com®",
-        link: "https://flashdeals.com/",
-        url: "https://flashdeals.com/",
+        name: "🔜 Get-Trained.co®",
+        link: "https://get-trained.co/",
+        url: "https://get-trained.co/",
       },      
       {
         name: "🔜 ClickList.me®",
@@ -198,7 +198,7 @@ export const clients = [
   {
     id: "client-3",
     logo: fdcom,
-    url: "https://flashdeals.com/",
+    url: "https://get-trained.co/",
   },
   {
     id: "client-4",
