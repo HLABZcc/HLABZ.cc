@@ -25,7 +25,7 @@ import people03 from "./people03.png";
 
 export {
   fvnet,
-  fdcom,
+  gtco,
   fdco,
   bill,
   card,
