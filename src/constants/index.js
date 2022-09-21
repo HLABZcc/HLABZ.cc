@@ -191,12 +191,12 @@ export const clients = [
     url: "https://flash-ventes.net/",
   },
   {
-    id: "client-3",
+    id: "client-2",
     logo: gtco,
     url: "https://get-trained.co/",
   },
   {
-    id: "client-2",
+    id: "client-3",
     logo: fdco,
     url: "https://flashdiscount.co/",
   },
