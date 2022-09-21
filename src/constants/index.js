@@ -107,7 +107,7 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
-    {
+        {
     title: "🎉 Community",
     links: [
       {
