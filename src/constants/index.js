@@ -87,16 +87,6 @@ export const footerLinks = [
   {
     title: "🏢 About Us",
     links: [
-            {
-        name: "GitHub",
-        link: "https://github.com/HLABZcc",
-        url: "https://github.com/HLABZcc",
-      },
-      {
-        name: "Fiverr",
-        link: "https://www.fiverr.com/hlabzconsult",
-        url: "https://www.fiverr.com/hlabzconsult",
-      },
       {
         name: "Hire Us",
         link: "https://www.fiverr.com/hlabzconsult",
