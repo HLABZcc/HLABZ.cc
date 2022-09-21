@@ -97,16 +97,6 @@ export const footerLinks = [
         link: "https://github.com/HLABZcc",
         url: "https://github.com/HLABZcc",
       },
-            {
-        name: "GitHub",
-        link: "https://github.com/HLABZcc",
-        url: "https://github.com/HLABZcc",
-      },
-      {
-        name: "Fiverr",
-        link: "https://www.fiverr.com/hlabzconsult",
-        url: "https://www.fiverr.com/hlabzconsult",
-      },
       {
         name: "Amazon Keyword Research",
         link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
@@ -117,6 +107,18 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
+      {
+        name: "GitHub",
+        link: "https://github.com/HLABZcc",
+        url: "https://github.com/HLABZcc",
+      },
+      {
+        name: "Fiverr",
+        link: "https://www.fiverr.com/hlabzconsult",
+        url: "https://www.fiverr.com/hlabzconsult",
+      },
+    ],
+  },
   {
     title: "🔜 Coming Soon",
     links: [
@@ -124,6 +126,11 @@ export const footerLinks = [
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount.co/",
+      },
+      {
+        name: "🔜 DotOG.xyz®",
+        link: "https://dotog.xyz/",
+        url: "https://dotog.xyz/",
       },
       {
         name: "🔜 FlashDeals.com®",
@@ -144,11 +151,6 @@ export const footerLinks = [
         name: "ClickFunnels™ 30 Days Free Trial",
         link: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
         url: "https://www.yourfirstfunnel.com?cf_affiliate_id=3956973&affiliate_id=3956973",
-      },
-      {
-        name: "DotOG.xyz®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
       },
       {
         name: "Flash-Ventes.net®",
