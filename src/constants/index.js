@@ -121,6 +121,11 @@ export const footerLinks = [
         name: "🔜 FlashDeals.com®",
         link: "https://flashdeals.com/",
         url: "https://flashdeals.com/",
+      },      
+      {
+        name: "🔜 ClickList.me®",
+        link: "https://clicklist.me",
+        url: "https://clicklist.me",
       },
       {
         name: "🔜 Premium SEO Audit",
