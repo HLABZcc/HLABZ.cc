@@ -4,7 +4,6 @@ import fdco from "./fdco.png";
 import dotog from "./dotog.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -28,7 +27,6 @@ export {
   dotog,
   logo,
   quotes,
-  robot,
   send,
   shield,
   star,
