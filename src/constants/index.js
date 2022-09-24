@@ -1,4 +1,4 @@
-import { people01, people02, people03, fiverr, github, twitter, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
+import { people01, people02, people03, fiverr, github, linkedin, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -14,7 +14,6 @@ export const navLinks = [
     title: "⭐️ Clients Reviews",
   },
 ];
-
 export const features = [
   {
     id: "feature-1",
@@ -38,7 +37,6 @@ export const features = [
       "We build Blog, E-commerce, SAAS & Mobile App using various technologies integrating into the newest, more user friendly adaptable sites.",
   },
 ];
-
 export const feedback = [
  {
     id: "feedback-1",
@@ -65,7 +63,6 @@ export const feedback = [
     img: people03,
   },
 ];
-
 export const stats = [
   {
     id: "stats-1",
@@ -83,7 +80,6 @@ export const stats = [
     value: "10+",
   },
 ];
-
 export const footerLinks = [
   {
     title: "🏢 About Us",
@@ -165,21 +161,20 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: twitter,
-    link: "https://twitter.com/HLABZcc",
-  }
-  {
-    id: "social-media-2",
     icon: github,
     link: "https://github.com/HLABZcc",
   },
   {
-    id: "social-media-3",
+    id: "social-media-2",
     icon: fiverr,
     link: "https://www.fiverr.com/hlabzconsult",
   },
+  {
+    id: "social-media-3",
+    icon: linkedin,
+    link: "https://github.com/HLABZcc",
+  },
 ];
-
 export const clients = [
   {
     id: "client-1",
