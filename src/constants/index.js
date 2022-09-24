@@ -1,4 +1,4 @@
-import { people01, people02, people03, fiverr, github, twitter, linkedin, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
+import { people01, people02, people03, fiverr, github, twitter, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
