@@ -163,7 +163,7 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-    {
+  {
     id: "social-media-1",
     icon: twitter,
     link: "https://twitter.com/HLABZcc",
