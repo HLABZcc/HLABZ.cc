@@ -15,7 +15,8 @@ import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import fiverr from "./fiverr.svg";
 import linkedin from "./linkedin.svg";
-import github from "./github.svg";
+import twitter from "./twitter.svg";
+import people03 from "./people03.png";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
@@ -39,6 +40,7 @@ export {
   fiverr,
   linkedin,
   github,
+  twitter,
   people01,
   people02,
   people03,
