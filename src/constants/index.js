@@ -178,11 +178,6 @@ export const socialMedia = [
     icon: fiverr,
     link: "https://www.fiverr.com/hlabzconsult",
   },
-  {
-    id: "social-media-4",
-    icon: linkedin,
-    link: "https://github.com/HLABZcc",
-  },
 ];
 
 export const clients = [
