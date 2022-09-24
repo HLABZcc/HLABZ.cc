@@ -1,4 +1,4 @@
-import { people01, people02, people03, fiverr, github, linkedin, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
+import { people01, people02, people03, fiverr, github, twitter, linkedin, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -163,18 +163,23 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-  {
+    {
     id: "social-media-1",
+    icon: twitter,
+    link: "https://twitter.com/HLABZcc",
+  }
+  {
+    id: "social-media-2",
     icon: github,
     link: "https://github.com/HLABZcc",
   },
   {
-    id: "social-media-2",
+    id: "social-media-3",
     icon: fiverr,
     link: "https://www.fiverr.com/hlabzconsult",
   },
   {
-    id: "social-media-3",
+    id: "social-media-4",
     icon: linkedin,
     link: "https://github.com/HLABZcc",
   },
