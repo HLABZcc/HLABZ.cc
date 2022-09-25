@@ -110,6 +110,11 @@ export const footerLinks = [
     title: "🔜 Coming Soon",
     links: [
       {
+        name: "🔜 Premium SEO Audit",
+        link: "https://github.com/HLABZ-CC/SEO-Audit",
+        url: "https://github.com/HLABZ-CC/SEO-Audit",
+      },
+      {
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount.co/",
@@ -123,11 +128,6 @@ export const footerLinks = [
         name: "🔜 ClickList.me®",
         link: "https://clicklist.me",
         url: "https://clicklist.me",
-      },
-      {
-        name: "🔜 Premium SEO Audit",
-        link: "https://github.com/HLABZ-CC/SEO-Audit",
-        url: "https://github.com/HLABZ-CC/SEO-Audit",
       },
     ],
   },
