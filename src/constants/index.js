@@ -18,21 +18,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "SEO Consulting",
+    title: "SEO Consulting ⭐️",
     content:
       "We provide SEO Audit, Netlinking, SEO strategy Consulting that will allow you to plan and manage the growth of your business easily!",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "ADS Campaign & Optimize",
+    title: "ADS Campaign & Optimize 🛡",
     content:
-      "We run Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.",
+      "We run & Optimize Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola Campaigns.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Website development",
+    title: "Website development 🧱",
     content:
       "We build Blog, E-commerce, SAAS & Mobile App using various technologies integrating into the newest, more user friendly adaptable sites.",
   },
