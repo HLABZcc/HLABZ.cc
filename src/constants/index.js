@@ -32,7 +32,7 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Website development 🧱",
+    title: "Website development 🛩",
     content:
       "We build Blog, E-commerce, SAAS & Mobile App using various technologies integrating into the newest, more user friendly adaptable sites.",
   },
