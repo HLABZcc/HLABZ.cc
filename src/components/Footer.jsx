@@ -42,7 +42,8 @@ const Footer = () => (
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
         Copyright Ⓒ 2022 | <a href="https://hlabz.cc/" alt="HLABZ.cc®">HLABZ.cc®</a> - All Rights Reserved.
       </p>
-      <p className="Donate">DONATE BTC address: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
+      <p className="Donate">DONATE BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
+      <p className="Donate">DONATE LTC: ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
 
       <div className="flex flex-row md:mt-0 mt-6">
         {socialMedia.map((social, index) => (
