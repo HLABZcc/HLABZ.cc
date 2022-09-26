@@ -55,6 +55,7 @@ const Footer = () => (
           />
         ))}
       </div>
+      <br />
           <p className="font-poppins font-normal text-center text-sm text-white">
           <p>DONATE</p>
           <p>BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
