@@ -43,8 +43,9 @@ const Footer = () => (
         Copyright Ⓒ 2022 | <a href="https://hlabz.cc/" alt="HLABZ.cc®">HLABZ.cc®</a> - All Rights Reserved.
       </p>
       <p className="font-poppins font-normal text-center text-sm text-white">
-          <p>DONATE BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
-          <p>DONATE LTC: ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
+          <p>DONATE</p>
+          <p>BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
+          <p>LTC: ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
       </p>
 
       <div className="flex flex-row md:mt-0 mt-6">
@@ -59,6 +60,11 @@ const Footer = () => (
           />
         ))}
       </div>
+            <p className="font-poppins font-normal text-center text-sm text-white">
+          <p>DONATE</p>
+          <p>BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
+          <p>LTC: ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
+      </p>
     </div>
   </section>
 );
