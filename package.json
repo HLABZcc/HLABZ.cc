@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-tweet-embed": "1.2.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
