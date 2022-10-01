@@ -18,8 +18,6 @@ const Hero = () => {
                 
         <center>
         
-        <TweetEmbed id="1573732760711307269" placeholder={'loading'} />
-        
         <div className="">        
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
             Welcome to <br></br>
@@ -32,6 +30,7 @@ const Hero = () => {
           <br />Website !
         </h1>
           <br />
+          <TweetEmbed id="1573732760711307269" placeholder={'loading'} options={{theme: 'dark' }} />
         </center>
         <br />
         <div className="items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
