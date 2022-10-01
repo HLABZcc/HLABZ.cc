@@ -1,5 +1,6 @@
 import styles from "../style";
 import { discount } from "../assets";
+import TweetEmbed from 'react-tweet-embed';
 
 const Hero = () => {
   return (
@@ -15,7 +16,11 @@ const Hero = () => {
           </p></center>
         </div>
                 
-        <center><div className="">        
+        <center>
+        
+        <TweetEmbed id="692527862369357824" placeholder={'loading'} />
+        
+        <div className="">        
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
             Welcome to <br></br>
           </h1>
