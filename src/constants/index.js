@@ -184,7 +184,7 @@ export const clients = [
   {
     id: "client-3",
     logo: fdco,
-    url: "https://flashdiscount.co/",
+    url: "https://findaword.xyz/",
   },
   {
     id: "client-4",
