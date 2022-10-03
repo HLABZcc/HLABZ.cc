@@ -99,16 +99,16 @@ export const footerLinks = [
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
-      {
-        name: "🔜 Premium SEO Audit",
-        link: "https://github.com/HLABZ-CC/SEO-Audit",
-        url: "https://github.com/HLABZ-CC/SEO-Audit",
-      },
     ],
   },
   {
     title: "🔜 Coming Soon",
     links: [
+            {
+        name: "🔜 Premium SEO Audit",
+        link: "https://github.com/HLABZ-CC/SEO-Audit",
+        url: "https://github.com/HLABZ-CC/SEO-Audit",
+      },
       {
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
