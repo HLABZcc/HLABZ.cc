@@ -95,25 +95,20 @@ export const footerLinks = [
         url: "https://github.com/HLABZcc",
       },
       {
-        name: "Amazon Keyword Research",
-        link: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
-        url: "https://www.fiverr.com/hlabzconsult/do-long-tail-keyword-research-for-any-seo-niche",
-      },
-      {
         name: "High quality SEO backlinks",
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
+      },
+      {
+        name: "🔜 Premium SEO Audit",
+        link: "https://github.com/HLABZ-CC/SEO-Audit",
+        url: "https://github.com/HLABZ-CC/SEO-Audit",
       },
     ],
   },
   {
     title: "🔜 Coming Soon",
     links: [
-      {
-        name: "🔜 Premium SEO Audit",
-        link: "https://github.com/HLABZ-CC/SEO-Audit",
-        url: "https://github.com/HLABZ-CC/SEO-Audit",
-      },
       {
         name: "🔜 FlashDiscount.co®",
         link: "https://flashdiscount.co/",
