@@ -184,7 +184,7 @@ export const clients = [
   {
     id: "client-2",
     logo: gtco,
-    url: "https://get-trained.co/",
+    url: "https://www.bruleur2graisse.xyz/",
   },
   {
     id: "client-3",
