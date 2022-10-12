@@ -184,12 +184,12 @@ export const clients = [
   {
     id: "client-2",
     logo: gtco,
-    url: "https://www.bruleur2graisse.xyz/",
+    url: "https://www.glmrtalk.xyz/",
   },
   {
     id: "client-3",
     logo: fdco,
-    url: "https://findaword.xyz/",
+    url: "https://darkbull.substack.com/",
   },
   {
     id: "client-4",
