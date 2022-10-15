@@ -110,25 +110,25 @@ export const footerLinks = [
     title: "🔜 Coming Soon",
     links: [
             {
-        name: "🔜 Premium SEO Audit",
+        name: "BSCTalk®",
+        link: "https://www.bsctalk.xyz/",
+        url: "https://www.bsctalk.xyz/",
+      },
+      {
+        name: "Premium SEO Audit",
         link: "https://github.com/HLABZ-CC/SEO-Audit",
         url: "https://github.com/HLABZ-CC/SEO-Audit",
       },
       {
-        name: "🔜 FlashDiscount.co®",
+        name: "FlashDiscount.co®",
         link: "https://flashdiscount.co/",
-        url: "https://flashdiscount.co/",
+        url: "https://flashdiscount-co.myshopify.com/",
       },
       {
-        name: "🔜 OG NAME SERVICE®",
+        name: "OG NAME SERVICE®",
         link: "https://dotog.xyz/",
         url: "https://dotog.xyz/",
       },      
-      {
-        name: "🔜 BSCTalk®",
-        link: "https://www.bsctalk.xyz/",
-        url: "https://www.bsctalk.xyz/",
-      },
     ],
   },
   {
