@@ -107,7 +107,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "🔜 Coming Soon",
+    title: "💼 Coming Soon",
     links: [
             {
         name: "BSCTalk®",
