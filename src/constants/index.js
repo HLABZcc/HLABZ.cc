@@ -184,7 +184,7 @@ export const clients = [
   {
     id: "client-2",
     logo: gtco,
-    url: "https://www.glmrtalk.xyz/",
+    url: "https://www.bsctalk.xyz/",
   },
   {
     id: "client-3",
