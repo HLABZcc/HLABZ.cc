@@ -60,6 +60,7 @@ const Footer = () => (
           <strong><p>DONATE (₿)</p></strong>
           <p>♛ BTC: bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
           <p>♛ LTC: ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
+          <p>♛ ETH: 0xbFF3eE7d3648Ce6b7DE82dEa427c3A1629aaf671</p>
       </p>
     </div>
   </section>
