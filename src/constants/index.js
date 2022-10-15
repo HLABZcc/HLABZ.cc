@@ -85,7 +85,7 @@ export const footerLinks = [
     title: "🏢 About Us",
     links: [
       {
-        name: "Hire Us",
+        name: "Work with Us",
         link: "https://www.fiverr.com/hlabzconsult",
         url: "https://www.fiverr.com/hlabzconsult",
       },
@@ -189,7 +189,7 @@ export const clients = [
   {
     id: "client-3",
     logo: fdco,
-    url: "https://darkbull.substack.com/",
+    url: "https://findaword.xyz/",
   },
   {
     id: "client-4",
