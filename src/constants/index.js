@@ -136,8 +136,8 @@ export const footerLinks = [
     links: [
       {
         name: "SOLForest®",
-        link: "https://solsea.io/a/620abec2ea126fde1f991184",
-        url: "https://solsea.io/a/620abec2ea126fde1f991184",
+        link: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
+        url: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
       },
       {
         name: "Flash-Ventes.net®",
