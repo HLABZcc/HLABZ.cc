@@ -6,7 +6,7 @@
  
   <p align="center">
   <strong>⭐️: www.hlabz.cc</strong>
- </p>
+ </p> 
  
 <img width="1490" alt="HLABZ SITE PREVIEW" src="https://user-images.githubusercontent.com/113842155/195226147-607d0013-7504-4bcf-b3e2-83f34e979f0d.png">
   <p align="center">
