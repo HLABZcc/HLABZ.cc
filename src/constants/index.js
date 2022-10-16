@@ -135,9 +135,9 @@ export const footerLinks = [
     title: "🤝 Sponsors",
     links: [
       {
-        name: "DotOG.xyz®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
+        name: "SOLForest®",
+        link: "https://solsea.io/a/620abec2ea126fde1f991184",
+        url: "https://solsea.io/a/620abec2ea126fde1f991184",
       },
       {
         name: "Flash-Ventes.net®",
