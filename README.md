@@ -16,6 +16,6 @@
 <hr />
 
  <p align="center">
-  <strong>🌐: https://hlabz.cc/ | 📩: contact@hlabz.cc | 🤝: https://www.fiverr.com/hlabzconsult</strong>
+  <strong>🌐: https://hlabz.cc/ | 📩: contact@hlabz.cc | 🤝: https://www.fiverr.com/hlabzconsult</strong> 
  </p>
 
