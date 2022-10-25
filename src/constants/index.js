@@ -115,6 +115,11 @@ export const footerLinks = [
         url: "https://www.bsctalk.xyz/",
       },
       {
+        name: "OG NAME SERVICE®",
+        link: "https://dotog.xyz/",
+        url: "https://dotog.xyz/",
+      },   
+      {
         name: "Premium SEO Audit",
         link: "https://github.com/HLABZ-CC/SEO-Audit",
         url: "https://github.com/HLABZ-CC/SEO-Audit",
@@ -123,12 +128,7 @@ export const footerLinks = [
         name: "FlashDiscount.co®",
         link: "https://flashdiscount.co/",
         url: "https://flashdiscount-co.myshopify.com/",
-      },
-      {
-        name: "OG NAME SERVICE®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
-      },      
+      },   
     ],
   },
   {
