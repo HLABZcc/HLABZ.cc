@@ -100,9 +100,9 @@ export const footerLinks = [
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
       {
-        name: "HLABZ® Research 🔬",
-        link: "https://search.hlabz.cc/",
-        url: "https://search.hlabz.cc/",
+        name: "HLABZ® Essays 📓",
+        link: "https://essays.hlabz.cc/",
+        url: "https://essays.hlabz.cc/",
       },
     ],
   },
