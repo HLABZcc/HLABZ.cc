@@ -32,7 +32,7 @@ const Business = () => (
         <center><a itemprop='url' href='https://www.fiverr.com/hlabzconsult' rel="follow" target="_blank"><Button /></a></center>
         <br />
         <center><span className="text-white"><p>Or</p>
-        <p>➡️   <a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> ! 📩</a></p></span></center>
+        <p>➡️   <a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> !</a></p></span></center>
         <br />
       </div>
     </div>
