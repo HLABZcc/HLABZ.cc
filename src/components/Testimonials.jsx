@@ -15,8 +15,7 @@ const Testimonials = () => (
         <br />
         <p className={`${styles.paragraph}`}>
           <center>✓ <strong>HLABZ</strong> favors <strong>Quality over Quantity</strong>.</center>
-          <center><br />✓ <strong>Please do not abuse our time</strong>.</center>
-          <center><br />✓ <strong>We only work on long term projects</strong>.</center>
+          <center><br />✓ <strong>We enjoy working on long-term projects</strong>.</center>
         </p>
       </div>
     </div>
