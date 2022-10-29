@@ -20,7 +20,7 @@ const Hero = () => {
         
         <div className="">        
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            👩‍🚀 DISCOVER 👩‍🚀 <br></br>
+            👩‍🚀 Discover 👩‍🚀 <br></br>
           </h1>
 
         </div></center>
