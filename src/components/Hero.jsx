@@ -39,8 +39,6 @@ const Hero = () => {
             <p className={styles.paragraph}>
               <strong>HLABZ®</strong> is a multifaceted technology company with a focus on staying ahead of the curve. 🌊
             </p></center>
-            <p className={styles.paragraph}>
-            </p></center>
           <br />
         </div>
         <br />
