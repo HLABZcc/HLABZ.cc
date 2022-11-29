@@ -29,10 +29,10 @@ const Business = () => (
           Our work covers the full spectrum of software development and support for the projects we create. 🛠
         </p></center>
         <br />
-        <center><a itemprop='url' href='https://www.fiverr.com/hlabzconsult' rel="follow" target="_blank"><Button /></a></center>
+        <center><a itemprop='url' href='https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV' rel="follow" target="_blank"><Button /></a></center>
         <br />
         <center><span className="text-white"><p>Or</p>
-        <p>➡️   <a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> !</a></p></span></center>
+        <p><a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> !</a></p></span></center>
         <br />
       </div>
     </div>
