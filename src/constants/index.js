@@ -107,17 +107,17 @@ export const footerLinks = [
     ],
   },
   {
-    title: "💼 Coming Soon",
+    title: "💼 Services",
     links: [
             {
-        name: "BSCTalk®",
-        link: "https://www.bsctalk.xyz/",
-        url: "https://www.bsctalk.xyz/",
+        name: "Premium Netlinking",
+        link: "https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV",
+        url: "https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV",
       },
       {
-        name: "OG NAME SERVICE®",
-        link: "https://dotog.xyz/",
-        url: "https://dotog.xyz/",
+        name: "10k Instagram Followers",
+        link: "https://buy.stripe.com/28ofZQ8g51JzcHS9AA",
+        url: "https://buy.stripe.com/28ofZQ8g51JzcHS9AA",
       },   
       {
         name: "Premium SEO Audit",
@@ -125,9 +125,9 @@ export const footerLinks = [
         url: "https://github.com/HLABZ-CC/SEO-Audit",
       },
       {
-        name: "FlashDiscount.co®",
-        link: "https://flashdiscount.co/",
-        url: "https://flashdiscount-co.myshopify.com/",
+        name: "Smart Contract Audit",
+        link: "https://github.com/HLABZ-CC/Smart-Contract-Audits",
+        url: "https://github.com/HLABZ-CC/Smart-Contract-Audits",
       },   
     ],
   },
