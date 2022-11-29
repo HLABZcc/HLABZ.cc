@@ -9,11 +9,11 @@ const CTA = () => (
         Whether you manage a blog, an e-commerce website or an online software, this Expert SEO Audit will allow you to plan and manage the growth of your business easily!
       </p>
       <br />
-      <span className="text-white">➡️   <a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> !</a></span>
+      <span className="text-white"><a href="mailto:contact@hlabz.cc">Get in Touch at <strong>contact@hlabz.cc</strong> !</a></span>
     </div>
 
     <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>
-      <a itemprop='url' href='https://www.fiverr.com/hlabzconsult' rel="follow" target="_blank"><Button /></a>
+      <a itemprop='url' href='https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV' rel="follow" target="_blank"><Button /></a>
     </div>
     <br />
   </section>
