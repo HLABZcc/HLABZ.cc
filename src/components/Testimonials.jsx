@@ -14,7 +14,7 @@ const Testimonials = () => (
       <div className="">
         <br />
         <p className={`${styles.paragraph}`}>
-          <center><br />✓ <strong>We enjoy working on long-term projects</strong> ✅</center>
+          <center><br />✓ <strong>We enjoy working on long-term projects</strong></center>
         </p>
       </div>
     </div>
