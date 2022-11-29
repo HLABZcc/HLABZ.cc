@@ -95,7 +95,7 @@ export const footerLinks = [
         url: "https://github.com/HLABZcc",
       },
       {
-        name: "High quality SEO backlinks",
+        name: "HLABZ® Android Apps 📱",
         link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
         url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
       },
@@ -132,7 +132,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "🤝 Sponsors",
+    title: "🎯 Projects",
     links: [
       {
         name: "Flash-Ventes.net®",
