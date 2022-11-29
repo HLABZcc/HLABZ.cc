@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[10px] px-10 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <center><p className={`${styles.paragraph}`}>
-            <span className="text-white">7</span>Days FREE trial period{" "}
+            <span className="text-white">7</span> Day FREE trial period{" "}
             <span className="text-white">on Premium Netlinking ✨</span>
             <a href="https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV" alt="hlabz"> Click Here !</a>
             <br />
