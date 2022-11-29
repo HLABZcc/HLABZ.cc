@@ -135,11 +135,6 @@ export const footerLinks = [
     title: "🤝 Sponsors",
     links: [
       {
-        name: "SOLForest®",
-        link: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
-        url: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
-      },
-      {
         name: "Flash-Ventes.net®",
         link: "https://flash-ventes.net/",
         url: "https://flash-ventes.net/",
@@ -153,6 +148,11 @@ export const footerLinks = [
         name: "Bruleur2Graisse.xyz®",
         link: "https://www.bruleur2graisse.xyz/",
         url: "https://www.bruleur2graisse.xyz/",
+      },
+      {
+        name: "SOLForest®",
+        link: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
+        url: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
       },
     ],
   },
