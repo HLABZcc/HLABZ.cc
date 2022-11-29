@@ -95,14 +95,14 @@ export const footerLinks = [
         url: "https://github.com/HLABZcc",
       },
       {
-        name: "HLABZ® Android Apps 📱",
-        link: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
-        url: "https://www.fiverr.com/hlabzconsult/do-high-quality-seo-backlinks",
-      },
-      {
-        name: "HLABZ® Essays 📓",
+        name: "HLABZ® Essays",
         link: "https://essays.hlabz.cc/",
         url: "https://essays.hlabz.cc/",
+      },
+      {
+        name: "HLABZ® Android Apps",
+        link: "https://play.google.com/store/apps/dev?id=8699229125725384801",
+        url: "https://play.google.com/store/apps/dev?id=8699229125725384801",
       },
     ],
   },
