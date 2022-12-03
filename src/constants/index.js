@@ -1,4 +1,4 @@
-import { people01, people02, people03, fiverr, github, twitter, fvnet, fdco, gtco, dotog, send, shield, star } from "../assets";
+import { people01, people02, people03, fiverr, github, twitter, fvnet, fdco, gtco, gitcoin, dotog, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -173,6 +173,11 @@ export const socialMedia = [
     id: "social-media-3",
     icon: twitter,
     link: "https://twitter.com/HLABZcc",
+  },
+    {
+    id: "social-media-4",
+    icon: gitcoin,
+    link: "https://gitcoin.co/hlabzcc",
   },
 ];
 export const clients = [
