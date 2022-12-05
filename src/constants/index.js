@@ -184,7 +184,7 @@ export const clients = [
   {
     id: "client-2",
     logo: gtco,
-    url: "https://www.bsctalk.xyz/",
+    url: "https://app.alphaswap.cc/",
   },
   {
     id: "client-3",
