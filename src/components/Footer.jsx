@@ -57,7 +57,7 @@ const Footer = () => (
       </div>
       <br />
           <p className="font-poppins font-normal text-center text-sm text-white">
-          <strong><p>DONATE (₿) 746200.eth ⟠</p></strong>
+          <strong><p>DONATE (₿) xTycoon.ᴇᴛʜ ⟠</p></strong>
           <p><strong>♛ BTC:</strong> bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf</p>
           <p><strong>♛ ETH:</strong> 0xbFF3eE7d3648Ce6b7DE82dEa427c3A1629aaf671</p>
           <p><strong>♛ LTC:</strong> ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu</p>
