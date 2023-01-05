@@ -115,9 +115,9 @@ export const footerLinks = [
         url: "https://buy.stripe.com/8wMeVM9k90Fv0ZaeUV",
       },
       {
-        name: "10k Instagram Followers",
-        link: "https://buy.stripe.com/28ofZQ8g51JzcHS9AA",
-        url: "https://buy.stripe.com/28ofZQ8g51JzcHS9AA",
+        name: "Instagram Pro Services",
+        link: "https://linktr.ee/igservicespro",
+        url: "https://linktr.ee/igservicespro",
       },   
       {
         name: "Premium SEO Audit",
