@@ -194,6 +194,6 @@ export const clients = [
   {
     id: "client-4",
     logo: dotog,
-    url: "https://dotog.xyz/",
+    url: "https://launcher3.gq/",
   },
 ];
