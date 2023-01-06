@@ -150,9 +150,9 @@ export const footerLinks = [
         url: "https://ai.hlabz.cc/",
       },
       {
-        name: "SOLForest®",
-        link: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
-        url: "https://solsea.io/c/620ac8c0ea126fde1f99123f",
+        name: "Chess Prediction®",
+        link: "https://chess.hlabz.cc/",
+        url: "https://chess.hlabz.cc/",
       },
     ],
   },
