@@ -145,9 +145,9 @@ export const footerLinks = [
         url: "https://findaword.xyz/",
       },
       {
-        name: "Bruleur2Graisse.xyz®",
-        link: "https://www.bruleur2graisse.xyz/",
-        url: "https://www.bruleur2graisse.xyz/",
+        name: "Chat AI®",
+        link: "https://ai.hlabz.cc/",
+        url: "https://ai.hlabz.cc/",
       },
       {
         name: "SOLForest®",
